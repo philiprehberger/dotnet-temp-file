@@ -91,6 +91,12 @@ await using var dir = TempDirectory.Create();
 | `Directory` | Target directory for the temp file |
 | `Prefix` | Prefix for the file name |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.TempFile.csproj --configuration Release
+```
+
 ## License
 
 MIT
