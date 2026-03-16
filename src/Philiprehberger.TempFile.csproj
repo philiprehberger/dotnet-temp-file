@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Philiprehberger.TempFile</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>Safe temporary file and directory management with automatic cleanup via IDisposable and IAsyncDisposable</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
