@@ -6,7 +6,7 @@
 
 Safe temporary file and directory management with automatic cleanup via IDisposable and IAsyncDisposable.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.TempFile
