@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-temp-file/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-temp-file/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.TempFile.svg)](https://www.nuget.org/packages/Philiprehberger.TempFile)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-temp-file)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Safe temporary file and directory management with automatic cleanup via IDisposable and IAsyncDisposable.
 
