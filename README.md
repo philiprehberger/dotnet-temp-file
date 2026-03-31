@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-temp-file/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-temp-file/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.TempFile.svg)](https://www.nuget.org/packages/Philiprehberger.TempFile)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-temp-file)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-temp-file)](https://github.com/philiprehberger/dotnet-temp-file/commits/main)
 
 Safe temporary file and directory management with automatic cleanup via IDisposable and IAsyncDisposable.
 
@@ -98,6 +97,24 @@ await using var dir = TempDirectory.Create();
 dotnet build src/Philiprehberger.TempFile.csproj --configuration Release
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-temp-file)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-temp-file/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-temp-file/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
